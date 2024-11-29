@@ -9,8 +9,8 @@
 #### Objective: To Provide insights to the company for data-informed decision making for future growth, to make proper negotiation with it’s customers, to develop strategic target to beat the competitors, in order to gain market position
 
 #### Project Goals:
-1. Create Customer Performance Report
-2. Generate Market Performance vs Target
+1. [Create Customer Performance Report](https://github.com/himasprabhs/AtliQ-Sales-And-Finance-Analytics/blob/main/1.%20Customer%20Performance%20Report.pdf)
+2. [Generate Market Performance vs Target](https://github.com/himasprabhs/AtliQ-Sales-And-Finance-Analytics/blob/main/2.%20Market%20Performance%20vs%20Target%20Report%20of%20AtliQ%20Hardwares..pdf)
    
 #### Data sources: Sales.zip. 
 + This database contains these CSV files.
@@ -69,8 +69,8 @@ By addressing these insights, businesses can optimize their strategies to better
 
 #### **Project Goals:**
 
-1. **P&L Reports:** Created P&L reports by fiscal years and P&L reports by fiscal months.
-2. **P&L Reports by Markets:** Generated P&L reports categorized by markets.
+1. **P&L Reports:** Created [P&L reports by fiscal years](https://github.com/himasprabhs/AtliQ-Sales-And-Finance-Analytics/blob/main/4.%20P%26L%20Statement%20by%20Fiscal%20Years.pdf) and [P&L reports by fiscal months](https://github.com/himasprabhs/AtliQ-Sales-And-Finance-Analytics/blob/main/3.%20P%26L%20Statement%20by%20Fiscal%20Months.pdf).
+2. **P&L Reports by Markets:** Generated [P&L reports by markets](https://github.com/himasprabhs/AtliQ-Sales-And-Finance-Analytics/blob/main/5.%20P%26L%20Statement%20by%20Markets.pdf).
 
 ### Key Visualizations & Findings:
 
@@ -104,6 +104,6 @@ By addressing these insights, businesses can optimize their strategies to better
 - How to prioritize Projects
 - How to compare the best, realistic & worst case scenario to provide discounts
 
-Find the detailed project reports here
+Find the detailed project [reports](https://github.com/himasprabhs/AtliQ-Sales-And-Finance-Analytics) here
 
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
