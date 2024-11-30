@@ -65,6 +65,8 @@ By addressing these insights, businesses can optimize their strategies to better
 
 ## Finance Report:
 
+#### Project: Finance Analytics
+
 #### **Business Task:** Evaluating financial performance of AtliQ by Fiscal years & by Fiscal months
 
 #### **Project Goals:**
